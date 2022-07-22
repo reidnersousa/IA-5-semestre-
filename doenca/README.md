@@ -1,4 +1,5 @@
 1-age
+
 2-sex
 3-chest pain type (4 values)
 4-resting blood pressure
